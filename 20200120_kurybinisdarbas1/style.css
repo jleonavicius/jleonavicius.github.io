@@ -1,0 +1,41 @@
+body{
+    background-color: #FB9902;
+}
+
+h1.antraste{
+    text-align: center;
+    font-size: 50pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #343409;
+}
+
+h2{
+    font-size: 30pt;
+    color: #343409;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pastraipa{
+    font-size: 20pt;
+    color: #343409;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+li{
+    font-size: 18pt;
+    color: #343409;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    height: 400px;
+    border: 5px solid #F7E9D4;
+
+}
+
+#vardas{
+    text-align: right;
+    color: #343409;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
