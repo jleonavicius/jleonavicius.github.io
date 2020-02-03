@@ -1,0 +1,38 @@
+img{
+    height: 300px;
+    border: solid 4px #342E09;
+}
+table.lentele{
+    height: 100%;
+    width: 60%;
+    margin: auto;
+}
+.ltekstas{
+    font-size: 25pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FDDC22;
+}
+td{
+    text-align: center;
+}
+h1.antraste{
+    font-size: 70pt;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 100px;
+    color: #FDDC22;
+}
+body{
+    background-color: #FC7307;
+}
+#vardas{
+    text-align: right;
+    color: #F7E3D4;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15pt;
+}
+.paantraste{
+    font-size: 30pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#342E09;
+}
