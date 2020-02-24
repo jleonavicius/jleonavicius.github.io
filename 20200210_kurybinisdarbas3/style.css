@@ -1,0 +1,82 @@
+body{
+  margin-bottom: 40px;
+}
+.header {
+    overflow: hidden;
+    background-color: #eae7dc;
+    padding: 20px 10px;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .header a.title {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    background-color: #e98074;
+    color: black;
+  }
+  
+  .header a.active {
+    background-color: #8e8d8a;
+    color: white;
+  }
+  
+  .header-right {
+    float: right;
+  }
+
+div.parent{ 
+    display:table;
+    padding:5px; 
+    width: 80%;
+    margin: auto; 
+    padding-top: 35px;
+}
+div.text{ 
+    vertical-align:middle;
+    display:table-cell;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div.text .date{
+    font-size: 15px;
+    font-style: italic;
+}
+div.parent .img{
+    vertical-align:middle;
+    display:table-cell;
+    padding-right:5px;
+    width:220px; 
+}
+div.img img{ 
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.content a:link{
+    text-decoration: none;
+    color: black;
+}
+.content a:visited{
+    text-decoration: none;
+    color: black;
+}
+.content a:hover{
+    color: grey;
+}
